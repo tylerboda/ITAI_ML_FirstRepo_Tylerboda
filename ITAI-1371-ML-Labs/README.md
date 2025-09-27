@@ -1,1 +1,1 @@
-This folder is dedicated to labs.
+This folder is dedicated to Labs.
