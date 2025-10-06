@@ -1,1 +1,1 @@
-This folder is dedicated to Module 3
+This folder is dedicated to Module 3.
